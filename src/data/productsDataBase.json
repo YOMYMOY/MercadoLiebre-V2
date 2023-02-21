@@ -192,25 +192,5 @@
          "img-1676343429384.jpg"
       ],
       "category": "in-sale"
-   },
-   {
-      "id": 19,
-      "name": "Kia XCeed PHEV 2023",
-      "description": "Diseñado para adaptarse a tu estilo de vida y superar las expectativas, el nuevo Kia XCeed redefine la experiencia de conducción crossover. Con una estética atrevida y más deportiva que nunca. Motor eléctrico de última generación. Las últimas características de conectividad para mantenerte conectado. Y mucho más.",
-      "price": 14000000,
-      "discount": 10,
-      "image": "img-1676343972787.jpg",
-      "images": [
-         "img-1676343972788.jpg",
-         "img-1676343972788.jpg",
-         "img-1676343972790.jpg",
-         "img-1676343972791.jpg",
-         "img-1676343972791.jpg",
-         "img-1676343972792.jpg",
-         "img-1676343972793.jpg",
-         "img-1676343972793.jpg",
-         "img-1676343972795.jpg"
-      ],
-      "category": "in-sale"
    }
 ]

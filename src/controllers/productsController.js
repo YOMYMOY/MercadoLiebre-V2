@@ -43,7 +43,7 @@ const controller = {
 			description : description.trim(),
 			price : +price,
 			discount : +discount,
-			image : req.files?.image[0]?.filename || null,
+			image : req.files && req.files.image ? req.files.image[0].filename : null,
 			images : req.files?.images?.map(file => file.filename) || [],
 			category,
 		}
